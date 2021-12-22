@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>草泥马</title>
+      <link href="/2021/12/19/%E8%8D%89%E6%B3%A5%E9%A9%AC/"/>
+      <url>/2021/12/19/%E8%8D%89%E6%B3%A5%E9%A9%AC/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2021/12/19/hello-world/"/>
+      <url>/2021/12/19/hello-world/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><script>console.error("Error: [hexo-tag-aplayer] Unrecognized tag argument(2): autoplay=true");</script><p><img src="https://s2.loli.net/2021/12/19/yq6aeosYvX7FhDN.png"></p><p>1111</p><h3 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h3><table><thead><tr><th align="center">参数</th><th align="center">描述</th></tr></thead><tbody><tr><td align="center"><code>title</code></td><td align="center">网站标题</td></tr><tr><td align="center"><code>subtitle</code></td><td align="center">网站副标题</td></tr><tr><td align="center"><code>dersciption</code></td><td align="center">网站描述</td></tr><tr><td align="center"><code>author</code></td><td align="center">您的名字</td></tr><tr><td align="center"><code>language</code></td><td align="center">网站使用的语言</td></tr><tr><td align="center"><code>timezone</code></td><td align="center">网站时区。Hexo 默认使用您电脑的时区。<a href="https://en.wikipedia.org/wiki/List_of_tz_database_time_zones">时区列表</a>。比如说：<code>America/New_York</code>, <code>Japan</code>, 和 <code>UTC</code> 。</td></tr></tbody></table><h3 id="网址"><a href="#网址" class="headerlink" title="网址"></a>网址</h3><table><thead><tr><th align="center">参数描述描述</th><th align="center">描述</th></tr></thead><tbody><tr><td align="center">url</td><td align="center">网址</td></tr><tr><td align="center">root</td><td align="center">网站根目录</td></tr><tr><td align="center">permalink</td><td align="center">文章的 <a href="https://hexo.io/zh-cn/docs/permalinks">永久链接</a> 格式</td></tr><tr><td align="center">permalink_defaults</td><td align="center">永久链接中各部分的默认值</td></tr></tbody></table><h1 id="傻X一号-傻X二号"><a href="#傻X一号-傻X二号" class="headerlink" title="傻X一号      傻X二号"></a><a href="https://ssy-0.github.io/">傻X一号</a>      <a href="https://hhh04.github.io/">傻X二号</a></h1><ul><li>👋 Hi, I’m @znkgitub</li><li>👀 I’m interested in …</li><li>🌱 I’m currently learning …</li><li>💞️ I’m looking to collaborate on …</li><li>📫 How to reach me …</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
